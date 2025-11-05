@@ -12,6 +12,8 @@ function Home() {
         <div className="product-gallery">
           <div className="porduct-card">
             <img src="../image/bubble-tea1.jpg" alt="" />
+            <img src="../image/bubble-tea1.jpg" alt="" />
+            <img src="../image/bubble-tea1.jpg" alt="" />
           </div>
         </div>
       </div>
