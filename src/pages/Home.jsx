@@ -13,7 +13,7 @@ function Home() {
         <div className="product-gallery">
           <div className="product-card">
                <h3>Bubble Tea</h3>
-            <span>price: rs 200 (10% discount)</span>
+            <span>price: rs 300 (10% discount)</span>
             <img src={BubbleTea1} alt="" />
           </div>
           {/* <div className="product-card">
